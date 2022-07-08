@@ -1,0 +1,19 @@
+* {
+  font-family: 'Century Gothic', sans-serif;
+}
+
+body,
+html,
+#root {
+  background: rgb(162, 228, 184);
+}
+
+.tittle-map-component {
+  text-align: center;
+  font-size: 2rem;
+  color: rgb(60, 47, 47);
+}
+
+hr {
+  border: 1px solid rgb(60, 47, 47);
+}
